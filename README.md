@@ -10,8 +10,9 @@ Download: [here](https://github.com/alex-ben-443/Wifi-Extractor/releases/downloa
 
 # Instructions to Download
 
-1. After Downloading the zip file, extract it using tools like WinRaR
-2. WifiExtractor > Right-click > Properties > General > Security > Unblock
+1. After Downloading the zip file, go to Windows Defender virus protection history and allow it! Trust me its safe!
+2. Now, extract the zip file using tools like WinRaR
+3. WifiExtractor > Right-click > Properties > General > Security > Unblock
    
    ![sample](https://github.com/alex-ben-443/Wifi-Extractor/assets/109460830/9e0ff191-d0fd-4b54-a7d6-399016bb7053)
    
